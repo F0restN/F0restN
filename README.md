@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Drake</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+Currently work for *University of Pittsburgh - Health and Rehabilitation Science Informatics Lab*, volunteer for WooJoo Galaxy
+
+- Building 2 project from ground up
+- Helping 1k+ students and professors manage their academy life easier
+- Helping 2k+ down syndrome patients report and monitor their health status 
+
 <p align="left">
 </p>
 
