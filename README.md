@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Drake</h1>
 <h3 align="center">A passionate full stack developer</h3>
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 Currently work for *University of Pittsburgh - Health and Rehabilitation Science
 Informatics Lab*, volunteer for WooJoo Galaxy - Building 2 project from ground
 up - Helping 1k+ students and professors manage their academy life easier -
 Helping 2k+ down syndrome patients report and monitor their health status
+
+
 
 <p align="left"></p>
 
